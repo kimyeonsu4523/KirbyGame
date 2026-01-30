@@ -2,7 +2,7 @@
 게임 '별의 커비'에서 영감을 받아 제작한 커비 캐릭터 기반 스테이지 클리어 액션 게임.
 
 ## 🔗 프로젝트 링크
-배포 URL: [여기에 링크 입력] (예: Vercel, Netlify, GitHub Pages 등). 
+배포 URL: [ https://kimyeonsu4523.github.io/KirbyGame/] (GitHub Pages). 
 
 
 ## 1️⃣ 아이디어 및 목적 (Why & What)
